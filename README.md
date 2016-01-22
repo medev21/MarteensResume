@@ -6,7 +6,7 @@
 
 ## Load REPL in the terminal
 
-  irb or pry
+  bundle exec irb
 
 ## Using the gem
 
@@ -14,7 +14,7 @@
 
 require 'Marteens_resume'
 
-include 'MarteensResume'
+include MarteensResume
 
 ## Get Resume info
 
