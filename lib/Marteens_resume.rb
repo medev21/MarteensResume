@@ -1,4 +1,4 @@
-require "Marteens_resume/version"
+# require "Marteens_resume/version"
 
 module MarteensResume
   class Marteen

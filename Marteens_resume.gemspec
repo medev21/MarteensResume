@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = MarteensResume::VERSION
   spec.authors       = ["Martin Ben"]
   spec.email         = ["mebenav88@gmail.com"]
-
+  spec.files         = ['lib/Marteens_resume.rb']
   spec.summary       = %q{A resume in ruby}
   spec.homepage      = "https://github.com/medev21/MarteensResume"
 
