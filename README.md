@@ -6,7 +6,7 @@
 
 ## Load REPL in the terminal
 
-  bundle exec irb
+  irb or pry
 
 ## Using the gem
 
